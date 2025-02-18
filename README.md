@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer.
 
 ### 💻 About Me:
 - 🎓 Graduate from University of Greenwich
-- 💼 Joined Nextbit Studio
+- 💼 Joined Softbd Ltd
 - 💼 Joined CODETREE Internship (January 2024 -  March 2024)
 - 💡 I love solving coding challenges and building innovative solutions
 - 🤝 Open to collaborating on exciting projects or open-source contributions
